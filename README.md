@@ -1,4 +1,4 @@
-👋 DrimTech is a IT-focused club at a high school in Shanghai, officially registered on July 23, 2024.
+### 👋 DrimTech is a IT-focused club at a high school in Shanghai, officially registered on July 23, 2024.
 
 👀 DrimTech was established with the purpose of popularizing information technology, promoting the development of the IT community, and covering everything related to computers.
 
