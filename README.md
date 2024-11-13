@@ -1,4 +1,4 @@
-### 👋 DrimTech is a IT-focused club at a high school in Shanghai, officially registered on July 23, 2024.
+## 👋 DrimTech is a IT-focused club at a high school from Shanghai, China.
 
 👀 DrimTech was established with the purpose of popularizing information technology, promoting the development of the IT community, and covering everything related to computers.
 
@@ -7,6 +7,8 @@
 💞️ The club has an AI virtual character named CAte.
 
 😄 Welcome to join DrimTech if you're interested in IT!
+
+### QQ chat group: [513697801](https://qm.qq.com/cgi-bin/qm/qr?k=8awchfnad7q8OaF9COxJM3I0csir9MYt&jump_from=webapi&authKey=gU+k80BNPJGsHbHFs72KI7MwRFCaCSliBvdMPsDJjy6j1w5AQkjcL4KssFx3IDxC)
 
 <!---
 DrimTech-program/DrimTech-program is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
