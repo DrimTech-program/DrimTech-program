@@ -6,7 +6,7 @@
 
 💞️ The club has an AI virtual character named CAte.
 
-😄 Welcome to join DrimTech if you're interested in IT!
+😄 Welcome to join DrimTech if you are interested in IT!
 
 ### QQ chat group: [513697801](https://qm.qq.com/cgi-bin/qm/qr?k=8awchfnad7q8OaF9COxJM3I0csir9MYt&jump_from=webapi&authKey=gU+k80BNPJGsHbHFs72KI7MwRFCaCSliBvdMPsDJjy6j1w5AQkjcL4KssFx3IDxC)
 
